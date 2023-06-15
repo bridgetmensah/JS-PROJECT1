@@ -1,0 +1,41 @@
+body{
+   
+    background-image:url(https://images.all-free-download.com/images/graphiclarge/snow_train_station_202111.jpg);
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;  
+    text-align: center;
+
+}
+div{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9F-TXeQ5YNOjkxmLhi2Du0iunisVPhB_nw&usqp=CAU);
+    background-size: cover;
+    width: 500px;
+    height: 150px;
+    border: 2px gray solid;
+    border-radius: 5px;
+   margin: auto;
+   margin-top: 300px;
+}
+a {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: white;
+    font-weight: bold;
+    width: 400px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#continue-btn{
+    background-color: darkgreen;
+
+}
+.first-btn:active{
+    border: 2px blue solid;
+
+}
