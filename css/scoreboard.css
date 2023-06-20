@@ -1,0 +1,122 @@
+body{
+    background-image: url("https://cdn2.vectorstock.com/i/1000x1000/21/41/basketball-background-vector-1912141.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.container{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #1B244A;
+    position: relative;
+    width: 575px;
+    height: 385px;
+    border-radius: 5px;
+
+    
+}
+
+#header1{
+    position: absolute;
+    width: 149px;
+    height: 36px;
+    left: 85px;
+    top: 68px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    text-align: center; 
+    color: #EEEEEE;
+}
+#header2{
+    position: absolute;
+    width: 149px;
+    height: 36px;
+    left: 340px;
+    top: 68px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    text-align: center;
+    color: #EEEEEE;
+}
+#numHolder1{
+    background-color: black;
+    position: absolute;
+    width: 155px;
+    height: 120px;
+    left: 85px;
+    top: 132px;
+    margin-top: 15px;
+    border-radius: 5px;
+    
+}
+.num1{
+    position: absolute;
+    width: 117px;
+    height: 120px;
+    left: 100px;
+    top: 125px;
+    
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;  
+    text-align: center;   
+    color: #F94F6D;
+
+
+}
+#numHolder2{
+    background-color: black;
+    position: absolute;
+    width: 155px;
+    height: 120px;
+    left: 337px;
+    top: 125px;
+    margin-top: 22px;
+    border-radius: 5px;
+}
+.num2{
+    position: absolute;
+    width: 117px;
+    height: 120px;
+    left: 355px;
+    top: 125px;
+    
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px; 
+    text-align: center; 
+    color: #F94F6D;
+}
+button{
+    width: 45px;
+}
+.btns1{
+    position: absolute;
+    width: 155px;
+    height: 45px;
+    left: 82px;
+    top: 271px;
+    margin: 12px;
+   
+
+}
+.btns2{
+    position: absolute;
+    width: 155px;
+    height: 45px;
+    left: 337px;
+    top: 271px;
+    margin: 12px;
+
+}
